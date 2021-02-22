@@ -1,0 +1,14 @@
+{
+  "name": "zhukovskiy-sights",
+  "version": "1.0.0",
+  "description": "English lang project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Petr Mitin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

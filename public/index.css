@@ -1,0 +1,41 @@
+html {
+    background-color: seashell;
+    font-family: "Roboto";
+}
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+h1 {
+    text-align: center;
+    color: rgba(50, 50, 50, 1);
+}
+
+header {
+    width: 50%;
+    border: 1px solid rgba(128, 128, 128);
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 5px 5px 5px grey;
+    background-color: tan;
+}
+
+.card {
+    height: 70%;
+    width: 40%;
+    display: inline-block;
+    margin: 2% 2%;
+    padding: 1%;
+    border: 1px solid rgba(128, 128, 128, 0.5);
+    box-shadow: 5px 5px 5px grey;
+    background-color: tan;
+}
+
+h2 {
+    color: rgba(50, 50, 50, 1);
+    font-size: 1.5em;
+    margin-bottom: 5px;
+}
